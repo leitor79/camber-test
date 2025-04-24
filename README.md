@@ -4,6 +4,7 @@ This Python script scrapes ABA therapy providers from BHCOE using their public X
 
 - ✅ Clean company name (left of the first “–” if present)
 - ✅ Website
+- ✅ Accreditation status (active or expired)
 
 It avoids:
 - ❌ Duplicate websites
